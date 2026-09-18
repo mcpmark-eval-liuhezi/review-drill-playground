@@ -1,0 +1,1 @@
+PASS CONDITION: quote every added line from the diff before approving.
